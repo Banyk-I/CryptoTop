@@ -1,0 +1,14 @@
+github.com/ib407ov/CryptoCompare v0.0.0-20240216122552-a94bee82fa57 h1:GWMiO6qDBRqx4nDMKS11NdtEw20iDftV43wYD7KUYuI=
+github.com/ib407ov/CryptoCompare v0.0.0-20240216122552-a94bee82fa57/go.mod h1:bnWkzxRlzaDEAngMRO1rX7azSMEGkN7FXNKmxFIQqhE=
+github.com/ib407ov/CryptoCompare v0.0.0-20240220135726-ca40175956a3 h1:uGKmx7rmAKoNjwQp/E1XXbrqSOIRRad4cpd6ZhHLREE=
+github.com/ib407ov/CryptoCompare v0.0.0-20240220135726-ca40175956a3/go.mod h1:bnWkzxRlzaDEAngMRO1rX7azSMEGkN7FXNKmxFIQqhE=
+github.com/ib407ov/CryptoCompare v0.0.0-20240221113945-23d31566a3de h1:tfxadJNIkKJhjg9rlBIgXMhyaVeAadHhuAlFUdCztyU=
+github.com/ib407ov/CryptoCompare v0.0.0-20240221113945-23d31566a3de/go.mod h1:bnWkzxRlzaDEAngMRO1rX7azSMEGkN7FXNKmxFIQqhE=
+github.com/ib407ov/CryptoCompare v0.0.0-20240221204250-370ccd927da4 h1:VZNEbKyiFuPhp0g2bsxTakmaVfuu5kBlKgYd/OYFl5M=
+github.com/ib407ov/CryptoCompare v0.0.0-20240221204250-370ccd927da4/go.mod h1:bnWkzxRlzaDEAngMRO1rX7azSMEGkN7FXNKmxFIQqhE=
+github.com/ib407ov/coinmarketcup v0.0.0-20240214133909-ad3fe745083f h1:S/j3QVqxqk27mZJfbIh/eBpAtUvYXLj+HROCXOdHwGo=
+github.com/ib407ov/coinmarketcup v0.0.0-20240214133909-ad3fe745083f/go.mod h1:srL40iSFFBGcago/VdGMFuguehZ7XiTBsXxblUL+fOM=
+github.com/petrixs/servicebus v0.0.0-20240211082342-dfbc6839bdb9 h1:qOMoEGAFROhhe00B7MmlqUa856o+28XxO1Q4NJSpyFg=
+github.com/petrixs/servicebus v0.0.0-20240211082342-dfbc6839bdb9/go.mod h1:xKU1SEfCnYBc1aaxUfalBlCREKcHBVREazLZXg0i3FQ=
+github.com/streadway/amqp v1.1.0 h1:py12iX8XSyI7aN/3dUT8DFIDJazNJsVJdxNVEpnQTZM=
+github.com/streadway/amqp v1.1.0/go.mod h1:WYSrTEYHOXHd0nwFeUXAe2G2hRnQT+deZJJf88uS9Bg=
